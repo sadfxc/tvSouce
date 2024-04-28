@@ -1,6 +1,6 @@
 常用,#genre#
-CCTV-13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV-13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV-13,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
+CCTV-13,https://live.goodiptv.club/api/cqyx.php?id=cctv13HD
 大湾区卫视,http://hlsbkmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?&encrypt=
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 大湾区卫视,http://hlsbkmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/350/index.m3u8?&encrypt=
